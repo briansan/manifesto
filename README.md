@@ -1,5 +1,5 @@
 # manifesto
-Here are some software engineering practices I would enstate. I do not expect you to agree to all of these and are more than encouraged to file an issue with any of them to facilitate further discussion. However, if I ever have the honor of employing your services as an engineer, I do expect them to be followed under standard baseball rules. On the flip side, if I ever have the honor of being considered for employment as an engineer by you, I would really appreciate our alignment on the following:
+Here are some software engineering practices I would enstate. I do not expect you to agree to all of these and more than encourage you to file an issue with any of them to facilitate further discussion. However, if I ever have the honor of employing your services as an engineer, I do expect them to be followed under standard baseball rules. On the flip side, if I ever have the honor of being considered for employment as an engineer by you, I look forward to our conversation to discuss the following:
 
 # The Goal
 To abstract the "real-world" problem into a set of digital representations in order to build logic around it that is maintainable, robust, and scalable.
@@ -32,18 +32,18 @@ is everything. While all these principles matter with respect to engineering sof
 - No matter the problem, ensure that all possible options within the current toolset are exhaustively considered before proposing to introduce a new one (whether in-house or 3rd-party)
 - If you really don't like a certain tool in favor of another, let the team know, but make sure you have fully prepared your case
   - If you are able to sell your pitch to more than 2/3 of the team, then we will develop a reasonable strategy to move forward with the change
-  - However, if there is a consensus (of the same majority) that you have not done your due diligence, this will hurt your credibility as an engineer to the company
+  - However, if there is a consensus (of the same majority) that you have not done your due diligence which will hurt your credibility as an engineer to the company
 
 ## Languages
 - Infrastructure: 
-  - Make for defining execution
-  - Ansible for executing  
-  - Markdown for docs
+  - [Make](http://mrbook.org/blog/tutorials/make/) for defining execution
+  - [Ansible](https://serversforhackers.com/c/an-ansible2-tutorial) for executing  
+  - [Markdown](https://www.markdowntutorial.com/) for documentation
 - Backend: 
-  - Go is the microservice oriented language of choice for a reason, figure out why
+  - [Go](https://tour.golang.org/welcome/1) is my preferred development language of choice, [here are some pros](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d) and [here are some cons](http://yager.io/programming/go.html), you decide
 - Frontend: 
-  - React for web apps
-  - React Native for mobile apps (unless the product is platform specific)
+  - [React](https://reactjs.org/tutorial/tutorial.html) for web apps
+  - [React Native](https://facebook.github.io/react-native/docs/tutorial.html) for mobile apps (unless the product is platform specific)
 
 ## Source Control
 - All code should live in a Version Control System (VCS) except...
