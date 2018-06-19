@@ -33,6 +33,12 @@ is everything. While all these principles matter with respect to engineering sof
 - If you really don't like a certain tool in favor of another, let the team know, but make sure you have fully prepared your case
   - If you are able to sell your pitch to more than 2/3 of the team, then we will develop a reasonable strategy to move forward with the change
   - However, if there is a consensus (of the same majority) that you have not done your due diligence which will hurt your credibility as an engineer to the company
+  
+## [Versioning](https://semver.org/)
+- Yes, this comes first; yes, versioning is a tool; yes, I am highly opinioned about this one
+- Products should be versioned at a company-wide level all the way down to the component level for engineering
+- Aligning every team on what changes are to be expected on what version release will cause less overall confusion
+- Whether it's a v1.1 or v2.0 launch, the more people that know about it, the more hype generated
 
 ## Languages
 - Infrastructure: 
